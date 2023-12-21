@@ -1,2 +1,2 @@
 # coursera
-introduction to git 
+introduction to git hub
